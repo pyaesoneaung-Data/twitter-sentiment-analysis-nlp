@@ -1,6 +1,5 @@
 venv/
 .ipynb_checkpoints/
-*.pyc
 __pycache__/
-.env
-Twitter(X)-Raw_Data-2009.csv
+*.pyc
+data/Twitter(X)-Raw_Data-2009.csv
